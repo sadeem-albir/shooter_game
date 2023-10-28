@@ -9,7 +9,7 @@ The 4 blue buttons on the right do exactly what they say, but just for clarifica
 increases the amount of time it takes to reload.
 Kills shows how many enemies you've killed, and Enemies shows how many enemies are currently on the screen.
 
-The main file to run is shooter.py, but all other files are essential for it to work. Also, you need pygame and its dependencies.
+The main file to run is main.py, but all other files are essential for it to work. Also, you need pygame and its dependencies.
 
 I know there is a lot yet to improve, but I just got started learning to program very recently, so if there's
 any suggestions you think would help with this small project, let me know because I'm open to improvement and growth :D
