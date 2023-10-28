@@ -1,0 +1,3 @@
+import shooter
+
+shooter()
