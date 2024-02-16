@@ -3,7 +3,7 @@ If you already have pygame installed, you will get an error of type "FileNotFoun
 The source code contains my personal file paths. You need to change the file paths that access the sound files.
 To do that, go to the sound file in your files in the directory where you extracted
 the game,for example, click.mp3, right click it and copy its **absolute** path (relative paths likely may not work).
-Then, replace that with the path that is in the source code.
+Then, replace the path that is in the source code with the path you copied.
 
 For example, instead of
 
